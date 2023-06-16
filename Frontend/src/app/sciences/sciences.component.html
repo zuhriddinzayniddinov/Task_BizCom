@@ -1,0 +1,25 @@
+<div *ngIf="sciences">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">№</th>
+                <th scope="col">Nomi</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let science of sciences; index as i">
+                <th id="clickItem"  scope="row">{{i+1}}</th>
+                <td id="clickItem" >{{science.name}}</td>
+                <th>
+                    <div>
+                        <button *ngIf="role == 'Admin'" class="btn btn-primary" (click)="apiSvc.selectScience(science)">Tanlash</button>
+                        <button *ngIf="role != 'Admin'" class="btn btn-primary" (click)="AddScience(science)">Qo'shish</button>
+                    </div>
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div *ngIf="!sciences">
+    <app-spinner style="font-size: 500%;"></app-spinner>
+</div>

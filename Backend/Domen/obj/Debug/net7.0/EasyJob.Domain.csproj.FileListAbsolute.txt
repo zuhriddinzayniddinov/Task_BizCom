@@ -1,0 +1,12 @@
+C:\Projects\Quiz\QuizAplication\Backend\Domen\bin\Debug\net7.0\EasyJob.Domain.deps.json
+C:\Projects\Quiz\QuizAplication\Backend\Domen\bin\Debug\net7.0\EasyJob.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Domen\bin\Debug\net7.0\EasyJob.Domain.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.csproj.AssemblyReference.cache
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.AssemblyInfoInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.AssemblyInfo.cs
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\refint\EasyJob.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\EasyJob.Domain.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\ref\EasyJob.Domain.dll

@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.fullWith {
+    width: 100%;
+}
+#clickItem {
+    cursor: pointer;
+}
+
+
+.inputlar {
+    margin-bottom: 15px;
+    width: 200%;
+
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #c691ff;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgb(184, 117, 255), rgb(107, 161, 255));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(189, 126, 255), rgb(119, 169, 255))
+    }
+
+
+
+
+    .notification {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: rgb(0, 230, 0);
+        color: rgb(80, 76, 76);
+        padding: 10px;
+        border-radius: 5px;
+        transition: opacity 0.5s ease-in-out;
+        opacity: 0;
+      }
+      
+      .notification.show {
+        opacity: 1;
+      }

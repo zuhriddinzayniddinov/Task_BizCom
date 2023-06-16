@@ -1,0 +1,21 @@
+<div *ngIf="studentOfScience">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">№</th>
+                <th scope="col">Nomi</th>
+                <th scope="col">Ball</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let sscience of studentOfScience; index as i">
+                <th id="clickItem"  scope="row">{{i+1}}</th>
+                <td id="clickItem" >{{sscience.scienceName}}</td>
+                <td id="clickItem" >{{sscience.ball}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div *ngIf="!studentOfScience">
+    <app-spinner style="font-size: 500%;"></app-spinner>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\bin\Debug\net7.0\Topshiriq.Domain.deps.json
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\bin\Debug\net7.0\Topshiriq.Domain.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\bin\Debug\net7.0\Topshiriq.Domain.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.csproj.AssemblyReference.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.AssemblyInfoInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.AssemblyInfo.cs
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\refint\Topshiriq.Domain.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\Topshiriq.Domain.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Domen\obj\Debug\net7.0\ref\Topshiriq.Domain.dll

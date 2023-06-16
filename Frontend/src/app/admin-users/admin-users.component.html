@@ -1,0 +1,125 @@
+<div style="align-items: center;">
+  <div class="my-form border">
+    <form class="form-inline my-2 my-lg-0">
+      <div class="form-group">
+        <input class="form-control mr-sm-2" type="number" [(ngModel)]="searchAgeDto.age" name="age" placeholder="Yosh">
+      </div>
+      <div class="form-group">
+        <select class="form-control form-control-lg" [(ngModel)]="searchAgeDto.underOrForm" name="underOrForm">
+          <option *ngFor="let uf of uof" name="underOrForm" [ngValue]="uf.valu">{{uf.val}}</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <select class="form-control form-control-lg" [(ngModel)]="searchAgeDto.role" name="role">
+          <option *ngFor="let role of roles" name="role" [ngValue]="role.valu">{{role.val}}</option>
+        </select>
+      </div>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" (click)="AgeSearch()">Qidirish</button>
+    </form>
+  </div>
+
+  <div class="my-form  border">
+    <form class="form-inline my-2 my-lg-0">
+      <div class="form-group">
+        <select class="form-control form-control-lg" [(ngModel)]="phone" name="phone">
+          <option *ngFor="let phone of phoneCompony" name="phone" [ngValue]="phone.valu">{{phone.val}}</option>
+        </select>
+      </div>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" (click)="PhoneSearch()">Qidirish</button>
+    </form>
+  </div>
+
+  <div class="my-form border">
+    <form class="form-inline my-2 my-lg-0">
+      <div class="form-group">
+        <input class="form-control mr-sm-2" type="text" [(ngModel)]="name" name="name" placeholder="Ism yoki Familya"
+          aria-label="Qidirish">
+      </div>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" (click)="NameSearch()">Qidirish</button>
+    </form>
+  </div>
+
+  <div class="my-form border">
+    <form class="form-inline my-2 my-lg-0">
+      <div class="form-group">
+        <input class="form-control mr-sm-2" type="date" [(ngModel)]="searchBirthdayDateDto.startDate" name="startDate"
+          aria-label="Qidirish">
+      </div>
+      <div class="form-group">
+        <input class="form-control mr-sm-2" type="date" [(ngModel)]="searchBirthdayDateDto.endDate" name="endDate"
+          aria-label="Qidirish">
+      </div>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit" (click)="birthdaySearch()">Qidirish</button>
+    </form>
+  </div>
+  <div class="my-form border">
+    <button type="button" class="btn btn-primary" (click)="getAllUsers()">Barcha foydalanuvchilar</button>
+  </div>
+</div>
+
+<div class="container">
+  <ul class="navbar row" style="list-style: none;">
+    <li class="item-group col-5 m-2 p-2 border border-4 border-info" *ngFor="let user of users">
+
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="mb-0">Ism</p>
+        </div>
+        <div class="col-sm-9">
+          <p class="mb-0">{{user.firstName}}</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="mb-0">Familya</p>
+        </div>
+        <div class="col-sm-9">
+          <p class="mb-0">{{user.lastName}}</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="mb-0">Telefon Raqam</p>
+        </div>
+        <div class="col-sm-9">
+          <p class="mb-0">{{user.phoneNumber}}</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="mb-0">Email</p>
+        </div>
+        <div class="col-sm-9">
+          <p class="mb-0">{{user.email}}</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="mb-0">Tug'ilgan kun</p>
+        </div>
+        <div class="col-sm-9">
+          <p class="mb-0">{{user.birthday}}</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-sm-3">
+          <p class="mb-0">Vasifasi</p>
+        </div>
+        <div class="col-sm-9">
+          <p class="mb-0">{{roles[user.role].val}}</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-12">
+          <button class="btn btn-info w-100" (click)="navigateToSelectedUser(user.id)">O'zgartirish</button>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

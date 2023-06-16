@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Service\\Quiz.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj",
+        "projectName": "Quiz.Domain",
+        "projectPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj",
+        "packagesPath": "C:\\Users\\baqoy\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baqoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Infrastructure\\QuizAplication.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Infrastructure\\QuizAplication.Infrastructure.csproj",
+        "projectName": "QuizAplication.Infrastructure",
+        "projectPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Infrastructure\\QuizAplication.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\baqoy\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baqoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Service\\Quiz.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Service\\Quiz.Application.csproj",
+        "projectName": "Quiz.Application",
+        "projectPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Service\\Quiz.Application.csproj",
+        "packagesPath": "C:\\Users\\baqoy\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baqoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Domen\\Quiz.Domain.csproj"
+              },
+              "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Infrastructure\\QuizAplication.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Quiz\\QuizAplication\\Backend\\Infrastructure\\QuizAplication.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

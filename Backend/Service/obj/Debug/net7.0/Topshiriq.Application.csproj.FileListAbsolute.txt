@@ -1,0 +1,17 @@
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Application.deps.json
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Application.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Application.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Domain.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Infrastructure.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Domain.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Topshiriq.Infrastructure.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.csproj.AssemblyReference.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.AssemblyInfoInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.AssemblyInfo.cs
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.csproj.CoreCompileInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.csproj.CopyComplete
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\refint\Topshiriq.Application.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Topshiriq.Application.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\ref\Topshiriq.Application.dll

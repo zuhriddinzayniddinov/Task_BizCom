@@ -1,0 +1,82 @@
+<!-- Navbar bg-light fixed-top -->
+<nav class="navbar navbar-expand navbar-light  d-flex justify-content-between">
+  <!-- Container wrapper -->
+  <div class="container">
+    <!-- Collapsible wrapper -->
+    <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarSupportedContent">
+      <!-- Left links -->
+      <div>
+
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link d-flex flex-column text-center" aria-current="page" routerLink="/"><span
+                class="small">Asosiy</span></a>
+          </li>
+
+            <li class="nav-item" *ngIf="role == 'Admin'">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" 
+                routerLink="/admin"><i class="fas fa-user-friends fa-lg"></i><span class="small">Admin panel</span></a>
+            </li>
+  
+            <li class="nav-item" *ngIf="role == 'Admin'">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page"  routerLink="/admin/science"><i
+                  class="fas fa-briefcase fa-lg"></i><span class="small">Fan qo'shish</span></a>
+            </li>
+
+            <li class="nav-item" *ngIf="role == 'Student'">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" 
+                routerLink="/sciences"><i class="fas fa-user-friends fa-lg"></i><span class="small">Kursga qo'shilish</span></a>
+            </li>
+  
+            <li class="nav-item" *ngIf="role == 'Student'">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page"  routerLink="/student"><i
+                  class="fas fa-briefcase fa-lg"></i><span class="small">Baholarni ko'rish</span></a>
+            </li>
+
+            <li class="nav-item" *ngIf="role == 'Teacher'">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" 
+                routerLink="/sciences"><i class="fas fa-user-friends fa-lg"></i><span class="small">Kurs olish</span></a>
+            </li>
+  
+            <li class="nav-item" *ngIf="role == 'Teacher'">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page"  routerLink="/teacher"><i
+                  class="fas fa-briefcase fa-lg"></i><span class="small">Baholash</span></a>
+            </li>
+        </ul>
+
+      </div>
+
+      <div class="d-flex justify-content-between">
+        <div *ngIf="!auth.isAuth" class="collapse navbar-collapse">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" routerLink="/login"><i
+                  class="fas fa-briefcase fa-lg"></i><span class="small">Kirish</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" routerLink="/register"><i
+                  class="fas fa-briefcase fa-lg"></i><span class="small">Ro'yxatdan o'tish</span></a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="dropdown" *ngIf="auth.isAuth">
+          <a class="nav-link d-flex flex-column text-center" style="cursor: pointer;" aria-current="page"
+            data-toggle="dropdown" id="dropdownMenuButton"><i class="fas fa-briefcase fa-lg"></i><span
+              class="small">{{auth.Name}}</span></a>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="nav-link d-flex flex-column text-center" style="cursor: pointer;" aria-current="page"
+              (click)="logout()"><i class="fas fa-briefcase fa-lg"></i><span class="small"
+                style="color: red;">Chiqish</span></a>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Left links -->
+    </div>
+    <!-- Collapsible wrapper -->
+  </div>
+  <!-- Container wrapper -->
+</nav>
+<!-- Navbar -->

@@ -1,0 +1,17 @@
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\bin\Debug\net7.0\Quiz.Infrastructure.deps.json
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\bin\Debug\net7.0\Quiz.Infrastructure.runtimeconfig.json
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\bin\Debug\net7.0\Quiz.Infrastructure.dll
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\bin\Debug\net7.0\Quiz.Infrastructure.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\bin\Debug\net7.0\EasyJob.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\bin\Debug\net7.0\EasyJob.Domain.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.AssemblyInfo.cs
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.csproj.CopyComplete
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.dll
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\refint\Quiz.Infrastructure.dll
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\Quiz.Infrastructure.genruntimeconfig.cache
+C:\Projects\Quiz\QuizAplication\Backend\Infrastructure\obj\Debug\net7.0\ref\Quiz.Infrastructure.dll

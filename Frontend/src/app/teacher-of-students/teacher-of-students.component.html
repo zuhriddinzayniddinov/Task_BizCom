@@ -1,0 +1,29 @@
+<div *ngIf="students">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">№</th>
+                <th scope="col">Nomi</th>
+                <th scope="col">Ball</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let sscience of students; index as i">
+                <th id="clickItem"  scope="row">{{i+1}}</th>
+                <td id="clickItem" >{{sscience.scienceName}}</td>
+                <td id="clickItem" >{{sscience.ball}}</td>
+                <td>
+                    <form class="form-inline my-2 my-lg-0">
+                        <div class="form-group">
+                          <input class="form-control mr-sm-2" type="number" [(ngModel)]="sscience.ball" name="ball" placeholder="Ball" aria-label="Qidirish">
+                        </div>
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit" (click)="UpdateBall(sscience)">Baho qo'yish</button>
+                      </form>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div *ngIf="!students">
+    <app-spinner style="font-size: 500%;"></app-spinner>
+</div>

@@ -1,0 +1,7 @@
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.csproj.AssemblyReference.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.AssemblyInfoInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.AssemblyInfo.cs
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.csproj.CoreCompileInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Quiz\obj\Debug\net7.0\Task.Api.MvcApplicationPartsAssemblyInfo.cache

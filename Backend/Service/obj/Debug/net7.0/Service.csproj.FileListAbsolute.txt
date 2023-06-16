@@ -1,0 +1,17 @@
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Service.deps.json
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Service.dll
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Service.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Domen.dll
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Infrastructure.dll
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Domen.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Service\bin\Debug\net7.0\Infrastructure.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.dll
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\Service.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Service\obj\Debug\net7.0\ref\Service.dll

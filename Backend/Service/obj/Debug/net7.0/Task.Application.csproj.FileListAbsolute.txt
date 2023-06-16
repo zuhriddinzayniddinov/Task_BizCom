@@ -1,0 +1,17 @@
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Application.deps.json
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Application.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Application.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Domain.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Infrastructure.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Domain.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\bin\Debug\net7.0\Task.Infrastructure.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.csproj.AssemblyReference.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.AssemblyInfoInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.AssemblyInfo.cs
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.csproj.CoreCompileInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.csproj.CopyComplete
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\refint\Task.Application.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\Task.Application.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Service\obj\Debug\net7.0\ref\Task.Application.dll

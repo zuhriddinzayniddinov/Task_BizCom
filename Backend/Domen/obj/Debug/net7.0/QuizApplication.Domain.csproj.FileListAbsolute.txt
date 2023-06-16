@@ -1,0 +1,12 @@
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.csproj.AssemblyReference.cache
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.AssemblyInfoInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.AssemblyInfo.cs
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Quiz\QuizAplication\Backend\Domen\bin\Debug\net7.0\QuizApplication.Domain.deps.json
+C:\Projects\Quiz\QuizAplication\Backend\Domen\bin\Debug\net7.0\QuizApplication.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Domen\bin\Debug\net7.0\QuizApplication.Domain.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\refint\QuizApplication.Domain.dll
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\QuizApplication.Domain.pdb
+C:\Projects\Quiz\QuizAplication\Backend\Domen\obj\Debug\net7.0\ref\QuizApplication.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\bin\Debug\net7.0\Topshiriq.Infrastructure.deps.json
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\bin\Debug\net7.0\Topshiriq.Infrastructure.runtimeconfig.json
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\bin\Debug\net7.0\Topshiriq.Infrastructure.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\bin\Debug\net7.0\Topshiriq.Infrastructure.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\bin\Debug\net7.0\Topshiriq.Domain.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\bin\Debug\net7.0\Topshiriq.Domain.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.AssemblyInfo.cs
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.csproj.CopyComplete
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\refint\Topshiriq.Infrastructure.dll
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.pdb
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\Topshiriq.Infrastructure.genruntimeconfig.cache
+C:\Users\baqoy\OneDrive\Desktop\Task\Backend\Infrastructure\obj\Debug\net7.0\ref\Topshiriq.Infrastructure.dll

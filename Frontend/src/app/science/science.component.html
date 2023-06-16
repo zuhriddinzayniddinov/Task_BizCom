@@ -1,0 +1,18 @@
+<form style="margin: 30px;">
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <!-- Toggle button  style="margin-bottom: 10px;"-->
+            <h1>
+                <span *ngIf="science.id">O'zgartirish</span>
+                <span *ngIf="!science.id">Yangi</span>
+            </h1>
+            <input type="text" [(ngModel)]="science.name" name="quiz" matInput class="form-control"
+                id="validationServer01" placeholder="Sarlavha" required>
+        </div>
+    </div>
+    <div >
+        <button type="button" (click)="post()" class="btn btn-outline-info" style="margin-right: 1%;">Jo'nat</button>
+        <button type="button" (click)="resetScience()" class="btn btn-outline-info" style="margin-right: 1%;">Yangi</button>
+    </div>
+</form>
+<app-sciences></app-sciences>
